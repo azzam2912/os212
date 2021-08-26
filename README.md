@@ -5,4 +5,4 @@ Baca saya
 
 Hehe
 
-Btw, github page: https://ana117.github.io/os212/
+Btw, github page: https://azzam2912.github.io/os212/

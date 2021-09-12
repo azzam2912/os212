@@ -19,5 +19,5 @@ ZCZC W00 300 L99 Honing Data Science Skill (I'm a total beginner, at least i tri
 ZCZC W01 600 L71 Teaching Math for High School Students as part time job
 ZCZC W01 5 L11 Assignment #01
 ZCZC W01 30 L12 Assignment #02
-ZCZC w01 45 L13 Assignment #03
-
+ZCZC W01 45 L13 Assignment #03
+ZCZC W01 15 L14 Assignment #04

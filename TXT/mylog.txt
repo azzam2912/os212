@@ -39,3 +39,4 @@ ZCZC W02 10 L09 Assignment #10 Review peer links
 ZCZC W02 15 L09 Assignment #11 Copy a simple and useful bash script
 ZCZC W02 5 L09 Assignment #13 generate SHA256SUM, SHA256SUM.asc
 ZCZC W02 180 L13 Assignment #03 Watch longggggg video about security 
+ZCZC W02 10 L12 Assignment #02 try demos

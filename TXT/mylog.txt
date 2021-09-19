@@ -28,3 +28,9 @@ ZCZC W01 10 L19 Assignment #09
 ZCZC W01 40 L16 Assignment #06
 ZCZC W02 180 L71 Teaching Math for High School and Secondary Stuents as part time job
 ZCZC W02 60 L11 Assignment #01 read OSC10 chapter 16 + 17
+ZCZC W02 5 L14 Assignment #04
+ZCZC W02 5 L15 Assignment #05
+ZCZC W02 5 L16 Assignment #06
+ZCZC W02 5 L17 Assignment #07
+ZCZC W02 5 L18 Assignment #08
+ZCZC W02 5 L09 Assignment #12 Update mylog.txt through vi

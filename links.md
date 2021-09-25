@@ -17,5 +17,5 @@ Website from w3resource that have many carefully documented simple regex in linu
 3. [Basic (almost all) Vi Command](https://gist.github.com/AaronPhalen/99d84494dfd36523c0de)<br>
 Someone made a list of (almost) all command to operate vi without tears. IT HELPED ME A LOT TO QUIT VI INSERT MODE :))).
 
-4. [How can I fix the Git error "object file ... is empty"?] (https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty)<br>
+4. [How can I fix the Git error "object file ... is empty"?](https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty)<br>
 So I just have seemingly fatal error: my git object is corrupted. So I surf through the GSGS and finally found this very useful solution :D.

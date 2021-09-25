@@ -40,3 +40,7 @@ ZCZC W02 15 L09 Assignment #11 Copy a simple and useful bash script
 ZCZC W02 5 L09 Assignment #13 generate SHA256SUM, SHA256SUM.asc
 ZCZC W02 180 L13 Assignment #03 Watch longggggg video about security 
 ZCZC W02 10 L12 Assignment #02 try demos
+ZCZC W03 15 L11 Assignment #01 read OSC10 chp 13 + 14 +15 (forgive me, but i just skimming, not read detailed....)
+ZCZC W03 10 L12 Assignment #02 just try one demos...
+ZCZC W03 30 L13 Assignment #03 I confess, the midterm problems are weirdly attractive
+

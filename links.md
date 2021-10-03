@@ -19,3 +19,6 @@ Someone made a list of (almost) all command to operate vi without tears. IT HELP
 
 4. [How can I fix the Git error "object file ... is empty"?](https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty)<br>
 So I just have seemingly fatal error: my git object is corrupted. So I surf through the GSGS and finally found this very useful solution :D.
+
+5. [C char Pointer (simple!)](https://overiq.com/c-programming-101/character-array-and-character-pointer-in-c/) <br>
+The week 04 comes with its scary pointer. I have no Idea why C char pointer has many difference with basic C pointer. But since I read this website, I still have no Idea how the ****, humans can use this ******* pointer.

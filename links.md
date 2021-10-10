@@ -22,3 +22,6 @@ So I just have seemingly fatal error: my git object is corrupted. So I surf thro
 
 5. [C char Pointer (simple!)](https://overiq.com/c-programming-101/character-array-and-character-pointer-in-c/) <br>
 The week 04 comes with its scary pointer. I have no Idea why C char pointer has many difference with basic C pointer. But since I read this website, I still have no Idea how the ****, humans can use this ******* pointer.
+
+6. [LRU Cache but SDA style (coding with java :DDD)](https://leetcode.com/problems/lru-cache/)<br>
+Well since I hate os for some reason, I eventually explore the otehr side of os but in SDA style. Yes, I know I love SDA, I know I'm a masochist.

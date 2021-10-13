@@ -25,3 +25,7 @@ The week 04 comes with its scary pointer. I have no Idea why C char pointer has 
 
 6. [LRU Cache but SDA style (coding with java :DDD)](https://leetcode.com/problems/lru-cache/)<br>
 Well since I hate os for some reason, I eventually explore the otehr side of os but in SDA style. Yes, I know I love SDA, I know I'm a masochist.
+
+7. [Debian Bullseye Memory](https://www.debian.org/releases/bullseye/amd64/ch03s04.en.html)<br>
+Well,the Debian official documentation said that 256MB is the minimum RAM for no desktop type. But guess what, I can go to 186MB and crashed at 185MB :DDD.
+

@@ -10,4 +10,7 @@ ZCZC W04 Dimasichsanul
 ZCZC W04 efsrdi
 ZCZC W05 fathanm10
 ZCZC W05 Fael31
-ZCZC W05 EzraPsh
+ZCZC W05 EzraPs
+ZCZC W06 fawzakin
+ZCZC W06 Feibs
+ZCZC W06 fikriazain

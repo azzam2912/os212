@@ -29,3 +29,5 @@ Well since I hate os for some reason, I eventually explore the otehr side of os 
 7. [Debian Bullseye Memory](https://www.debian.org/releases/bullseye/amd64/ch03s04.en.html)<br>
 Well,the Debian official documentation said that 256MB is the minimum RAM for no desktop type. But guess what, I can go to 186MB and crashed at 185MB :DDD.
 
+8. [Synchronization, Brief Version](https://www.guru99.com/process-synchronization.html)<br>
+Okay, I have read all synchronization lesson of this OS, but..... it hards. Maybe, maybe this website will help, briefly to grasp most basic without reading all kunyuk slides.

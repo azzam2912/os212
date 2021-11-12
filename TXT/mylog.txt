@@ -86,3 +86,13 @@ ZCZC W07 5 L15 Assignment #05
 ZCZC W07 10 L17 Assignment #07
 ZCZC W07 7 L18 Assignment #08
 ZCZC W07 5 L19 Assignment #09
+ZCZC W08 5 L11 Assignment #01
+ZCZC W08 5 L12 Assignment #02
+ZCZC W08 5 L13 Assingment #03
+ZCZC W08 120 L14 Assignment #04 LFS Chapter 1-4
+ZCZC W08 150 L15 Assignment #05 LFS Chapter 5
+ZCZC W08 5 L16 Assignment #06
+ZCZC W08 5 L18 Assignment #08
+ZCZC W08 10 L19 Assignment #09
+ZCZC W08 200 L02 Zoom OS
+ZCZC W08 10 L09 Assignment #10

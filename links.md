@@ -31,3 +31,10 @@ Well,the Debian official documentation said that 256MB is the minimum RAM for no
 
 8. [Synchronization, Brief Version](https://www.guru99.com/process-synchronization.html)<br>
 Okay, I have read all synchronization lesson of this OS, but..... it hards. Maybe, maybe this website will help, briefly to grasp most basic without reading all kunyuk slides.
+
+9. [Wanna survive week08? Check this out!](https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=10)<br>
+Week 08 has been very frustrating for some students (me included). But because of this amazing video tutorial, i've been thorugh this pain week with less pain yay.
+
+10. [LFS](https://www.linuxfromscratch.org/lfs/view/11.0/index.html)<br>
+yeah, this is dope. No, it doesn't dope.
+

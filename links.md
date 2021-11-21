@@ -38,3 +38,7 @@ Week 08 has been very frustrating for some students (me included). But because o
 10. [LFS](https://www.linuxfromscratch.org/lfs/view/11.0/index.html)<br>
 yeah, this is dope. No, it doesn't dope.
 
+11. [LFS](https://www.linuxfromscratch.org/lfs/view/11.0/index.html)<br>
+yeah, this is dope. No, it doesn't dope.
+
+
